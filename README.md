@@ -9,8 +9,12 @@ Here, I request the data (json) and organize the photos in the respective albums
 
 This component will select how many albums it will display, how many photos and what color the borders of the tables.
 
+https://github.com/yardz/barisdev-test/blob/master/src/Pages/Albuns/AlbunsList.page.tsx
+
 ## /Components/AlbunsShow/AlbunsShow.tsx
 
 This is a UI component.
 It receives the photos and displays the images.
 It would also be used on the page that shows all the photos in the album
+
+https://github.com/yardz/barisdev-test/blob/master/src/Components/AlbunsShow/AlbunsShow.tsx
